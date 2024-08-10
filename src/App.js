@@ -9,10 +9,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>Esta es mi pagina en React de Rómulo Programador</p>
-        <Componente1 />
-        <Componente2 />
-
-
+        <Componente1/>
+        <Componente2/>
+       
       </header>
     </div>
   );
